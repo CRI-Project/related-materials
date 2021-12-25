@@ -1,0 +1,26 @@
+Weekly Meeting - Week 07 - 2021.11.24~2021.11.30
+Date: 2021.11.25 Recorder: Zejie Yan
+·Summary of the Sprint 03:
+  Issues encountered:
+  Server is attacked by hacker on the presentation of weekly meeting. 
+  As the server is still under the attack, the original server is abandoned after discussion with teammates. 
+  As a result, the database was destroyed, and all the data recorded in database is erased. 
+  A new server is implemented to replace the original one. 
+  A new database is rebuilt in this sprint, and the data is collected again to do related test. 
+  A mass of repeated work was made, so it costs plenty of time.  
+  Review:
+  The process is delayed, but the process is still move on but with lower pace. 
+  Retrospective:
+  Although attack costs us plenty of time and energy, we still learn from this unfortunate experience. 
+  In the future, we would do measures to prevent such an accident, and know what to do after the accident. 
+  The team still works as a whole, this attack challenged us, and we still move on. 
+·Plan of the Sprint 04:
+  Sprint 04 is the last sprint before the last sprint of this project. Team will start to do the initial preparation of 
+  final report and presentation. Test will be the main topic of this sprint. A mass of test will be implemented in this
+  sprint to keep program work properly.
+  Goal: 
+  The backend support of control table  
+  The operation of users including login, logout, register, control sensor and view data. 
+  Preliminary overall test 
+  Rough draft of final report 
+  Primary overall test 

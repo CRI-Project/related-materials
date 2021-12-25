@@ -1,0 +1,14 @@
+Weekly Meeting - Week 04 - 2021.11.2~2021.11.9
+Date: 2021.11.4 Recorder: Zejie Yan
+· Questions:
+  Problem about the design of data transferring time interval needs to be discussed. 
+  Problem about the mode of updating data stored in database needs to be discussed. 
+· Discussion about occurrence time and the way of concurrence is made and finished. 
+· User Story/Task are finished:
+  1. Task - complment the function to json - By Mengyu Rao
+  2. Task - Improve Layout - By Jian Wei Zhao
+  3. Task - Refactor Login Page - By LIHAO QIU
+  4. Task - Database Build - By Zejie Yan
+  5. User Story - Data Collecting - By Mengyu Rao
+  6. Task - Build Control Table - By JianWei Zhao
+  7. Task - Mount charts for home page - By JianWei Zhao

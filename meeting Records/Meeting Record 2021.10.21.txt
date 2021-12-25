@@ -1,0 +1,12 @@
+Weekly Meeting - Week 02 - 2021.10.16~2021.10.23
+Date: 2021.10.21 Recorder: Zejie Yan
+·Have a deep debate on the framework of the project, and in the end ideas are unified.
+·We realize a fact that some design cannot be made without hardware, so they are postponed. 
+·The UI design was preliminary done, and it was shared on the meeting with teammates. Ideas are exchanged on the UI deisgn.
+·Questions are collected:
+ 1. Data security. We wonder if we need to consider the privacy problem when we collect data from
+     family environment.
+ 2. UI design restriction. We need to know if there is any request from clients on the web design or there is existing 
+     UI deisgn for us. (We found this question when we started designing.)
+ 3. The type of data we need to collect. The types of data we need to collect is not clear.
+ 4. The time when the hardware can arrive.

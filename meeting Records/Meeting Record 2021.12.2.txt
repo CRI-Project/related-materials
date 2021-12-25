@@ -1,0 +1,8 @@
+Weekly Meeting - Week 07 - 2021.11.30~2021.12.6
+Date: 2021.12.2 Recorder: Zejie Yan
+·During sprint 04
+  The control on hardware is realized by using extra hardware we have. Transistor and electric wire are implemeneted
+   in this task. Finally, the hardware is well controlled, and this outcome receives positive response in the daily meeting
+   with Dapeng.
+   The disscussion based on the authority is made, and finally we decide to centralize the authority in one kind of user,
+   so that there is no more top access. The disscussion is made with Dapeng.

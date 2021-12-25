@@ -1,0 +1,7 @@
+Weekly Meeting - Week 09 - 2021.12.14~2021.12.20
+Date: 2021.12.16 Recorder: Zejie Yan
+During Spring 05:
+ Report is finshed roughly with some details still need to be covered in technical words.
+ Test was delayed, as some mistake are found in the review, so did the test report.
+ Diagreement between Chris and Dapeng was discovered on the requirement of final report, so some parts of report 
+ is yet unfinished.

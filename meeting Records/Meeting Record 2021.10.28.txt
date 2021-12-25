@@ -1,0 +1,16 @@
+Weekly Meeting - Week 03 - 2021.10.24~2021.11.1
+Date: 2021.10.28 Recorder: Zejie Yan
+·Have a review on the sprint 01.
+  The design of the project is fully discussed and finished in a high quality. 
+·Have a retrospective on the sprint 01.
+ All the teammates are all fully involved in the project, which makes the process go efficiently.  
+·The plan of second sprint which is two weeks long has been made
+ Perfect UI design;  
+ Finish making web pages; 
+ Deploy and successfully run sensors and Raspberry Pi;  
+ Build up the transmission path from hardware to database;  
+ Finish the function of visualizing the data in database; 
+·Have a short disscusion on the User Story.
+  User Story 005~015 are designed.
+·User story involved in this sprint are: 
+ User Story – 2, 4 ,10, 11, 12, 13, 14 

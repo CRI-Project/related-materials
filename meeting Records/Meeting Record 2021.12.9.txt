@@ -1,0 +1,24 @@
+Weekly Meeting - Week 08 - 2021.12.7~2021.12.13
+Date: 2021.12.9 Recorder: Zejie Yan
+·Summary of the Sprint 04:
+ Issues encountered:
+ As we are not provided related equipment to do the switch function, it takes some time for us to do preparation and make attempts to control the sensor.  
+ The user part including login, logout, register is roughly finished in this sprint. However, we are still making efforts to optimize the experience of user and promote efficiency.
+ Overall test has not been implemented in this sprint. Only the partial test is put into practice, because some part still requires coding work like the data transmission.
+ Rough draft of final report is initially finished, but it is updated all the time, because the discussion and change are made in a high frequency.
+ Location choosing is finished, but this function is achieved based on the domestic API which is hard to be used in European country including Ireland. In order to satisfy the working condition in Ireland, team is still working on a more proper solution to finish location function, Google map is put into consideration. 
+ Review:
+  As the end of this project is coming, the whole program is now taking its complete shape. 
+  While more function is realized at this stage, many update are made on the former work to keep high consistency.
+  Goals are mostly finished by the end of this sprint.
+ Retrospective:
+ In this sprint, the most difficult part is to complete control function without existing tool. 
+ Efforts are made to study electricity work and get related equipment. Different idea is 
+ brought up to finish this hard requirement.
+·Plan of the Sprint 05:
+  Goal: 
+ Finish the entire program
+ Final report
+ Overall test and test report
+ User instructions sheet
+ Video demonstration

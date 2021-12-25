@@ -1,0 +1,9 @@
+Weekly Meeting - Week 06 - 2021.11.17~2021.11.23
+Date: 2021.11.18 Recorder: Zejie Yan
+·During sprint 03
+ The process is delayed, because the server is under the attck from hacker.
+ The attack happens in the presentation of weekly-meeting with Dapeng 11.13.
+ The database needs to be rebuild in anothe server.
+ All the data collected in these weeks are gone.
+ This week is rebuild the work of last weeks.
+  

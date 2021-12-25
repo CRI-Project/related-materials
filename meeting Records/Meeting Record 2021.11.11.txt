@@ -1,0 +1,23 @@
+Weekly Meeting - Week 05 - 2021.11.10~2021.11.16
+Date: 2021.11.11 Recorder: Zejie Yan
+·Have a review on the sprint 02.
+  1.Some modification is finished on former page. 
+  2.User story 10, 11, 12 14 are fully finished. 
+  3.User story 13 has been discussed with supervisor, 
+     and the feedback says that the update can be left 
+     until other parts are finished. The standard needs to be unified. 
+  4.Concurrence problem is pushed into next sprint. 
+·Have a retrospective on the sprint 02.
+  Some mistakes on concurrence problem are found and solved with Dapeng but is still unfinished.
+·Have comments on the sprint 02.
+  Plenty of needed help is provided by manager when the misunderstand is raised. 
+·The plan of the 3rd sprint which is two weeks long has been made.
+  Goals: 
+  Implement unfinished MQ. 
+  Realize the function of control table 
+  Test the system with fake data 
+  Complete the hardware-side code (such as serial number in Raspberry Pi). 
+  Separate the authority of users when they access the system. The accesses
+  are separated into common access, special access, top access. 
+  User Stories to be Implemented:
+  User Story – 2, 3, 4, 7, 8, 13 
