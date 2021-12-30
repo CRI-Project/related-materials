@@ -24,9 +24,11 @@ Note: we used Python version 3.x to test this code.
 ## Back-end Part
 
 ### Install
-Download jar file from [@ BaiduNetdisk](https://pan.baidu.com/xxxx), [@ Google Drive](https://xxxx)
+Two methods
+- Download jar file from [@ BaiduNetdisk](https://pan.baidu.com/xxxx), [@ Google Drive](https://xxxx)
+- Go to [back-end design part repository](https://github.com/CRI-Project/back-end-design) and read it.
 
-Note: Two Mysql tables are used in this project. You can download _create table sql_ from [sensor.sql](https://github.com/CRI-Project/related-materials/blob/main/sensor.sql), [sensordata.sql](https://github.com/CRI-Project/related-materials/blob/main/sensordata.sql)
+**Note: Two Mysql tables are used in this project. You can download _create table sql_ from [sensor.sql](https://github.com/CRI-Project/related-materials/blob/main/sensor.sql), [sensordata.sql](https://github.com/CRI-Project/related-materials/blob/main/sensordata.sql)**
 
 # Project Implementation Process
 Agile Development is used in this project. To balance the workload of this project, work is separated into five sprints where each sprint is in two-weeks long. Based on the type of work, six long-term stories are designed and distributed to these five sprints roughly (see following diagram)
