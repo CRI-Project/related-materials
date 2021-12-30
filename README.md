@@ -7,7 +7,9 @@ This project is a part of the large project behave of Climate Response Ireland. 
 - A design of an efficient message routing scheme for sensor data and control command transmission that can scale to multi-million devices 
 - A software system for device and sensor management and sensor data visualisation
 
-# Project implementation process
+# Project Setup
+
+# Project Implementation Process
 Agile Development is used in this project. To balance the workload of this project, work is separated into five sprints where each sprint is in two-weeks long. Based on the type of work, six long-term stories are designed and distributed to these five sprints roughly (see following diagram)
 <center class="half">
   <img src="images/design_map.png"/>
@@ -19,7 +21,7 @@ Agile Development is used in this project. To balance the workload of this proje
 - Each scrum meeting is recorded, the problems from scrum meetings are collected and delivered to project manager in every Friday.
 [Meeting Records](https://github.com/CRI-Project/related-materials/tree/main/meeting%20Records)
 
-## Project division
+## Project Division
 The project is divied into three parts, please see as following.
 - [hardware-design part repository](https://github.com/CRI-Project/hardware-design)
 - [front-end design part repository](https://github.com/CRI-Project/front-end-design)
