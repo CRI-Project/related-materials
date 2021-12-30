@@ -50,7 +50,9 @@ The project is divied into three parts, please see as following.
 - [back-end design part repository](https://github.com/CRI-Project/back-end-design)
 
 
-## Project Summary
+## Project Learning
+Team members change the requirements into actual task that needs to be implemented, which successfully convert the requirements into operations.
+Team members learnt to communicate not only with each other but also with project managers. Communication is a major lesson that team learned in this project.
 
 ## Future Work
 - Filter Test. In the future work, the functionality of testing filter will be implemented. 
