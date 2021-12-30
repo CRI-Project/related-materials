@@ -10,7 +10,6 @@ This project is a part of the large project behave of Climate Response Ireland. 
 # Project implementation process
 To balance the workload of this project, work is separated into five sprints where each sprint is in two-weeks long. Based on the type of work, six long-term story is designed and distributed to these five sprints roughly (see following diagram)
 <center class="half">
-![image](images/design_map.png)
   <img src="images/design_map.png"/>
 </center>
 
