@@ -14,7 +14,7 @@ This project is a part of the large project behave of Climate Response Ireland. 
 Clone this to your raspberry 4B.
 <pre>git clone https://github.com/CRI-Project/hardware-design.git</pre> 
 Install related packages
-<pre>pip install -r requirements.txt</pre>
+<pre>pip3 install -r requirements.txt</pre>
 Note: we used Python version 3.x to test this code.
 
 ## Front-end Part
