@@ -14,3 +14,8 @@ To balance the workload of this project, work is separated into five sprints whe
   <img src="images/design_map.png"/>
 </center>
 
+# Memebrs
+    * [Skyer19](https://github.com/Skyer19) 
+    * [lihaoqiu0815](https://github.com/lihaoqiu0815)
+    * [JaeScholes](https://github.com/JaeScholes)
+    * [mARk-LzZ](https://github.com/mARk-LzZ) 
