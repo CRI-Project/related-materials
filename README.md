@@ -59,5 +59,5 @@ The project is divied into three parts, please see as following.
 [@Skyer19](https://github.com/Skyer19)<br> 
 [@lihaoqiu0815](https://github.com/lihaoqiu0815)<br>
 [@JaeScholes](https://github.com/JaeScholes)<br>
-[@mARk-LzZ](https://github.com/mARk-LzZ) IanZhao29
+[@mARk-LzZ](https://github.com/mARk-LzZ) <br>
 [@IanZhao29](https://github.com/IanZhao29)
