@@ -12,8 +12,13 @@ Agile Development is used in this project. To balance the workload of this proje
 <center class="half">
   <img src="images/design_map.png"/>
 </center>
+## Project Meeting
+- Technical meeting is held on every Thursday where all the technical issues are put into discussion and tested.
+- Scrum meeting is held on every Thursday where the issues relating to plan is discussed and experience is shared. 
+- Each scrum meeting is recorded, the problems from scrum meetings are collected and delivered to project manager in every Friday.
+[Meeting Records](https://github.com/CRI-Project/related-materials/tree/main/meeting%20Records)
 
-## Project division
+# Project division
 The project is divied into three parts, please see as following.
 - [hardware-design part repository](https://github.com/CRI-Project/hardware-design)
 - [front-end design part repository](https://github.com/CRI-Project/front-end-design)
