@@ -66,3 +66,6 @@ The project is divied into three parts, please see as following.
 [@JaeScholes](https://github.com/JaeScholes)<br>
 [@mARk-LzZ](https://github.com/mARk-LzZ) <br>
 [@IanZhao29](https://github.com/IanZhao29)
+
+# Acknowledgement
+Thank you for Maynooth University Future Ready Initiative and [Climate Response Ireland](https://climateresponse.ie/) financial support.
