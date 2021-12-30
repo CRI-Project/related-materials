@@ -37,7 +37,7 @@ Two Mysql tables are used in this project. You can download _create table sql_ f
 
 # Project Implementation Process
 Agile Development is used in this project. To balance the workload of this project, work is separated into five sprints where each sprint is in two-weeks long. Based on the type of work, six long-term stories are designed and distributed to these five sprints roughly (see following diagram)
-<center class="half">
+<center class="half" style="text-align: center;">
   <img src="images/design_map.png"/>
 </center>
 
