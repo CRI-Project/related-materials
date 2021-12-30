@@ -12,6 +12,7 @@ Agile Development is used in this project. To balance the workload of this proje
 <center class="half">
   <img src="images/design_map.png"/>
 </center>
+
 ## Project Meeting
 - Technical meeting is held on every Thursday where all the technical issues are put into discussion and tested.
 - Scrum meeting is held on every Thursday where the issues relating to plan is discussed and experience is shared. 
