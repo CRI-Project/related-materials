@@ -8,6 +8,13 @@ This project is a part of the large project behave of Climate Response Ireland. 
 - A software system for device and sensor management and sensor data visualisation
 
 # Project Setup
+## Hardware Part
+
+### Install
+you should first clone this to your raspberry 4B.
+<pre>git clone https://github.com/CRI-Project/hardware-design.git</pre> 
+Install the related packages by using 
+<pre>pip install -r requirements.txt</pre>
 
 # Project Implementation Process
 Agile Development is used in this project. To balance the workload of this project, work is separated into five sprints where each sprint is in two-weeks long. Based on the type of work, six long-term stories are designed and distributed to these five sprints roughly (see following diagram)
