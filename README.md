@@ -12,6 +12,7 @@ Agile Development is used in this project. To balance the workload of this proje
 <center class="half">
   <img src="images/design_map.png"/>
 </center>
+
 ## Project division
 The project is divied into three parts, please see as following.
 - [hardware-design part repository](https://github.com/CRI-Project/hardware-design)
@@ -22,10 +23,10 @@ The project is divied into three parts, please see as following.
 ## Project Summary
 
 ## Future Work
-- Filter Test. In the future work, the functionality of testing filter will be implemented. Hardware will be installed with the filter to test capability of optimizing environment while this system is collecting data from the outside world. Indexes with filter and without filter will be compared in designed algorithm to exam the practicability of filter in specific environment.
-- Report Generating. User is allowed to view the environmental data in this system from any knowledge background. After using this system, a report can be generated automatically based on the data. Algorithm used to do this function is designed on the basis of the technical background of users, report can be simple or academic.
-- Data Sharing. As this system is designed for not only technical use but also raising concern of society to care about the environmental problem, the connection between this system and society is required to be strengthen in the future. This system will open the path of sharing data with social media. Users is allowed to share data or generated report on social media.
-- Global implementation. In this system, the program is able to analyze the quality of environmental index, but the algorithm used in analyzing is designed for normal condition. For example, the standard of humidity in Somalia is not supposed to be the same as the standard in Panama. In addition to analysis standard, use of API and tools is required to abide the law in country.
+- Filter Test. In the future work, the functionality of testing filter will be implemented. 
+- Report Generating. After using this system, a report can be generated automatically based on the data. 
+- Data Sharing. This system will open the path of sharing data with social media. Users is allowed to share data or generated report on social media.
+- Global implementation. 
 
 # Memebrs
 [@Skyer19](https://github.com/Skyer19)<br> 
