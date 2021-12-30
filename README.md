@@ -13,6 +13,10 @@ To balance the workload of this project, work is separated into five sprints whe
   <img src="images/design_map.png"/>
 </center>
 
+THE roject is divied into three part, hardware-design part, front-end design part and back-end design part.
+- [hardware-design part repository](https://github.com/CRI-Project/hardware-design)
+- [front-end design part repository](https://github.com/CRI-Project/front-end-design)
+- [back-end design part repository](https://github.com/CRI-Project/back-end-design)
 # Memebrs
 [@Skyer19](https://github.com/Skyer19)<br> 
 [@lihaoqiu0815](https://github.com/lihaoqiu0815)<br>
