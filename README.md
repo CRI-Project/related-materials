@@ -16,6 +16,7 @@ Agile Development is used in this project. To balance the workload of this proje
 - Technical meeting is held on every Thursday where all the technical issues are put into discussion and tested.
 - Scrum meeting is held on every Thursday where the issues relating to plan is discussed and experience is shared. 
 - Each scrum meeting is recorded, the problems from scrum meetings are collected and delivered to project manager in every Friday.
+
 [Meeting Records](https://github.com/CRI-Project/related-materials/tree/main/meeting%20Records)
 
 # Project division
