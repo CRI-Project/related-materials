@@ -25,7 +25,7 @@ Note: we used Python version 3.x to test this code.
 
 ### Install
 Two methods
-- Download jar file from [@ BaiduNetdisk](https://pan.baidu.com/xxxx), [@ Google Drive](https://xxxx)
+- Download jar file from [@ BaiduNetdisk](https://pan.baidu.com/xxxx), [@ Google Drive](https://drive.google.com/drive/folders/16v6IR2Z6iUJrjWRO28L27aog0YoRvsfB?usp=sharing)
 - Go to [back-end design part repository](https://github.com/CRI-Project/back-end-design) and read it.(**recommand!)**
 
 **Note: 
