@@ -20,6 +20,10 @@ Note: we used Python version 3.x to test this code.
 ## Front-end Part
 
 ### Install
+Clone this to your local PC.
+<pre>git clone https://github.com/CRI-Project/front-end-design.git</pre> 
+Running
+read run [it](https://github.com/CRI-Project/back-end-design) in your local PC by [WebStorm IDE](https://www.jetbrains.com/webstorm/)
 
 ## Back-end Part
 
