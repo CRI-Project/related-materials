@@ -26,7 +26,7 @@ Note: we used Python version 3.x to test this code.
 ### Install
 Two methods
 - Download jar file from [@ BaiduNetdisk](https://pan.baidu.com/xxxx), [@ Google Drive](https://xxxx)
-- Go to [back-end design part repository](https://github.com/CRI-Project/back-end-design) and read it.
+- Go to [back-end design part repository](https://github.com/CRI-Project/back-end-design) and read it.(**recommand!)**
 
 **Note: 
 Two Mysql tables are used in this project. You can download _create table sql_ from [sensor.sql](https://github.com/CRI-Project/related-materials/blob/main/sensor.sql), [sensordata.sql](https://github.com/CRI-Project/related-materials/blob/main/sensordata.sql)**
