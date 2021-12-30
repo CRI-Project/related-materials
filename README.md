@@ -68,4 +68,4 @@ The project is divied into three parts, please see as following.
 [@IanZhao29](https://github.com/IanZhao29)
 
 # Acknowledgement
-Thank you for Maynooth University Future Ready Initiative and [Climate Response Ireland](https://climateresponse.ie/) financial support.
+Thank you for [Maynooth University Future Ready Initiative](https://www.maynoothuniversity.ie/careers) and [Climate Response Ireland](https://climateresponse.ie/) financial support.
