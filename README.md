@@ -11,19 +11,19 @@ This project is a part of the large project behave of Climate Response Ireland. 
 ## Hardware Part
 
 ### Install
-Clone this to your raspberry 4B.
+#### Clone this to your raspberry 4B.
 <pre>git clone https://github.com/CRI-Project/hardware-design.git</pre> 
-Install related packages
+#### Install related packages
 <pre>pip3 install -r requirements.txt</pre>
 Note: we used Python version 3.x to test this code.
 
 ## Front-end Part
 
 ### Install
-Clone this to your local PC.
+#### Clone this to your local PC.
 <pre>git clone https://github.com/CRI-Project/front-end-design.git</pre> 
-Running
-read run [it](https://github.com/CRI-Project/back-end-design) in your local PC by [WebStorm IDE](https://www.jetbrains.com/webstorm/)
+#### Running
+read and run [it](https://github.com/CRI-Project/back-end-design) in your local PC by [WebStorm IDE](https://www.jetbrains.com/webstorm/)
 
 ## Back-end Part
 
