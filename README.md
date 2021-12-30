@@ -29,7 +29,7 @@ Two methods
 - Go to [back-end design part repository](https://github.com/CRI-Project/back-end-design) and read it.(**recommand!)**
 
 **Note: 
-Two Mysql tables are used in this project. You can download _create table sql_ from <a href="https://github.com/CRI-Project/related-materials/blob/main/sensor.sql" download="sensor.sql">sensor.sql</a>, [sensordata.sql](https://github.com/CRI-Project/related-materials/blob/main/sensordata.sql)**
+Two Mysql tables are used in this project. You can download _create table sql_ from <a href="https://github.com/CRI-Project/related-materials/" download="./sensor.sql">sensor.sql</a>, [sensordata.sql](https://github.com/CRI-Project/related-materials/blob/main/sensordata.sql)**
 
 # Project Implementation Process
 Agile Development is used in this project. To balance the workload of this project, work is separated into five sprints where each sprint is in two-weeks long. Based on the type of work, six long-term stories are designed and distributed to these five sprints roughly (see following diagram)
