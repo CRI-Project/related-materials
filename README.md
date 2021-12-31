@@ -72,6 +72,6 @@ The project is divied into three parts, please see as following.
 [@IanZhao29](https://github.com/IanZhao29) - Jianwei Zhao
 
 # Acknowledgement
-- Thank you for [Climate Response Ireland](https://climateresponse.ie/) financial support.
-- Thank you for [Maynooth University](https://maynoothuniversity.ie/) and [Fuzhou university](https://www.fzu.edu.cn) technical and mental support.
+- Thanks for financial support from [Climate Response Ireland](https://climateresponse.ie/).
+- Thanks for technical and mental support from [Maynooth University](https://maynoothuniversity.ie/) and [Fuzhou university](https://www.fzu.edu.cn).
 
