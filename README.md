@@ -65,11 +65,11 @@ The project is divied into three parts, please see as following.
 - Global implementation. 
 
 # Memebrs
-[@Skyer19](https://github.com/Skyer19)<br> 
-[@lihaoqiu0815](https://github.com/lihaoqiu0815)<br>
-[@JaeScholes](https://github.com/JaeScholes)<br>
-[@mARk-LzZ](https://github.com/mARk-LzZ) <br>
-[@IanZhao29](https://github.com/IanZhao29)
+[@Skyer19](https://github.com/Skyer19) - Mengyu Rao<br> 
+[@lihaoqiu0815](https://github.com/lihaoqiu0815) - Lihao Qiu<br>
+[@JaeScholes](https://github.com/JaeScholes) - Zejie Yan<br>
+[@mARk-LzZ](https://github.com/mARk-LzZ) - Zhezhi Lin<br>
+[@IanZhao29](https://github.com/IanZhao29) - Jianwei Zhao
 
 # Acknowledgement
 - Thank you for [Climate Response Ireland](https://climateresponse.ie/) financial support.
