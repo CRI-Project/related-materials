@@ -29,8 +29,8 @@ read and run [it](https://github.com/CRI-Project/front-end-design) in your local
 
 ### Install
 Two methods
-- Download jar file from [@ Baidu Netdisk](https://pan.baidu.com/s/1GxXVp_n5ejZLgwmzeIdjgQ), [@ Google Drive](https://drive.google.com/drive/folders/16v6IR2Z6iUJrjWRO28L27aog0YoRvsfB?usp=sharing) 
-- Go to [back-end design part repository](https://github.com/CRI-Project/back-end-design) and read it.(**recommand!)**
+- Download jar file from [@ Baidu Netdisk](https://pan.baidu.com/s/1GxXVp_n5ejZLgwmzeIdjgQ), [@ Google Drive](https://drive.google.com/drive/folders/16v6IR2Z6iUJrjWRO28L27aog0YoRvsfB?usp=sharing) and run them.
+- Go to [back-end design part repository](https://github.com/CRI-Project/back-end-design) and read(compile) them by yourselves.(**recommand!)**
 
 **Note: 
 Two Mysql tables are used in this project. You can download _create table sql_ from <a href="https://github.com/CRI-Project/related-materials/blob/main/sensor.sql" download="sensor.sql">sensor.sql</a>, [sensordata.sql](https://github.com/CRI-Project/related-materials/blob/main/sensordata.sql)**
