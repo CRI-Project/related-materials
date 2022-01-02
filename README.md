@@ -29,7 +29,7 @@ read and run [it](https://github.com/CRI-Project/front-end-design) in your local
 
 ### Install
 Two methods
-- Download jar file from [@ BaiduNetdisk](https://pan.baidu.com/s/1GxXVp_n5ejZLgwmzeIdjgQ), [@ Google Drive](https://drive.google.com/drive/folders/16v6IR2Z6iUJrjWRO28L27aog0YoRvsfB?usp=sharing) 
+- Download jar file from [@ Baidu Netdisk](https://pan.baidu.com/s/1GxXVp_n5ejZLgwmzeIdjgQ), [@ Google Drive](https://drive.google.com/drive/folders/16v6IR2Z6iUJrjWRO28L27aog0YoRvsfB?usp=sharing) 
 - Go to [back-end design part repository](https://github.com/CRI-Project/back-end-design) and read it.(**recommand!)**
 
 **Note: 
